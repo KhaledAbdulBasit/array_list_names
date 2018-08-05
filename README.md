@@ -1,5 +1,4 @@
 # array_list_names
-<?php
 $last_names = array(
   'Abbott',
   'Acevedo',
